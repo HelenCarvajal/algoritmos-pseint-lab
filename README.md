@@ -1,5 +1,5 @@
 # Portafolio de Algoritmos Pseint
-**Nombre completo:** Helen Carvajal
+**Nombre completo:** Helen Elieth Carvajal Membreño
 **Seccion:** Grupo 2
 **Carrera:** Ingenieria en Sistemas
 
